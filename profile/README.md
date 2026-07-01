@@ -5,7 +5,7 @@
 
 ## Links
 - **<a href="https://skyzenlabs.pages.dev/">Our Website</a>**
-- **<a href="https://instagram.com/skyzenlabs">Instagram</a>**
+- **<a href="https://instagram.com/official.skyzen">Instagram</a>**
 
 ## Influencers/Sponsors/Advertisers
 - **<a href="https://www.instagram.com/thekijiwenipodcast2026/">@thekijiwenipodcast2026</a>**
