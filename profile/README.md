@@ -1,4 +1,4 @@
-# Skyzen Labs
+# Skyzen
 
 ## About
 *We design and build intelligent software, automation systems, and AI-powered platforms for startups and enterprises.*
